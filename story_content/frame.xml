@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="totalelapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1478,6 +1478,110 @@
             <slidelink slideid="_player.665wh0ylIS4.6pkmK0CtVI3" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
             <slidelink slideid="_player.665wh0ylIS4.6XxLn72R6KJ" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
             <slidelink slideid="_player.665wh0ylIS4.5Z7ebjuH7SY" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6KUDcvyvzFx" displaytext="نموذج نهائي" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6KUDcvyvzFx.6UUncnRjcAS" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6DKCHPDORXq" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5ux5cywgiSN" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ccPtTeYJem" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6bd16qqDIDZ" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5oMoG5QF4qt" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.68YiHschfS2" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5ZvU1ofbIjx" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6NkhA579Adz" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6IquBhRnMxm" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6BvRvadRYsO" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6276aBqKYmk" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6XdX5dObqaK" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.66v2O18PiJG" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5Z5R8mNkjmT" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.61y1u17Snun" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5vmwMsFQDvD" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5k7EjZ06sM4" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6Y3yd0mYOK3" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6kfCKzkJU7s" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5VOPnPPONPI" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5Y41U8MkP5s" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5wVyhzdorKx" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6W5v5aD4JFH" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5rI1ns0p9Sj" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6EvZtLPu0fF" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.62e05FRx8BH" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5jr60VzvHQr" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6VVEgLKEHFa" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5vAqyc4JhbJ" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5ZUnbu6jYkU" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6qioFw8Vum4" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5dh6nlCCgwx" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6hVgriVxcKl" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6NCV0Ko3d07" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6cZaoVRbkWB" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.67MSN94YmHa" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5WX8TJyOdWO" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6BRcjoXVulh" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5tQ92CbOl0o" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5nTyd8X2S4l" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5n50NVLkQGt" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6J6ZfkkDcpB" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6IzPFTSamUk" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5uh9k9jN7Sw" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5uipTXDdidw" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5nVS4jLQyTp" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6Rx18zpxOeB" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5t81CaNtZHP" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ULcCG75puM" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6qTpZX8aYKe" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.65re3NcalQ1" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.66osMKmy46L" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5cgzjMGGWvE" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6LuAv3qvrT5" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.68f09CQ7Njm" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5g3t32gszBY" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5WkfEGED5g6" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5dLpYSDFXeb" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ODburaxzYj" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.64URPg3uQ2t" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5XQNBfLMheA" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6oqG7PAnRtX" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5bfEMOV0iBO" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6m9h6Zci24n" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.684gB7iAmJM" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6Ex1wBnhcUu" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.60DuKZojfL2" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5sQ1BIqfmSS" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6He4cHSVcXU" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6qWPzUHgqc6" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6STkIRh8v9A" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6EZ2iGSmVS8" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6NFYExwMdtL" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6UJZQsHyqII" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6HzotY2uzUz" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6R17QhGnUZw" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6NidO3lhLXf" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6nqC6F44KPb" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ehvdLetl3B" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6A4KaIPF0WC" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5VE1fvt9vMr" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ihkFAr540h" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5f6RSPQsvP2" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5awvMLdtRjJ" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6ddgZiOKirC" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5VvuztgdkPb" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6dua7PgUtRs" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5YW6P1vPR0k" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5YU5w6HpRR4" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5x9CVLn1mbR" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5sBupWZ442a" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5kMMIVNWtlt" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5ebwpO6nv2c" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6MK8VM20azf" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.63LFf4ycj2Q" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5b55F9wHUsK" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.5eUUBKFAFiU" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.69MCma12iXY" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6KUDcvyvzFx.6Erz4pXK9fB" displaytext="MULTIPLE CHOICE" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
